@@ -1,4 +1,6 @@
-# Chat-Bot
+# [Chat-Bot](https://ask-my-resume-ai.vercel.app/) 
+
+![Demo of Ask My Resume](./src/app/assest/resume-gif.mp4)
 
 This project is an interactive chatbot web application that allows users to ask questions about your resume and receive intelligent, AI-generated answers. The chatbot leverages OpenAI's GPT-3.5-turbo model to provide relevant and contextual responses.
 
