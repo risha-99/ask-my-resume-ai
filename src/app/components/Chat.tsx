@@ -38,7 +38,7 @@ export default function Chat() {
                   Welcome! 👋
                 </h2>
                 <p className="text-gray-600 dark:text-gray-400 mb-4">
-                  I'm here to answer questions about my background, skills, and experience as a software engineer.
+                  Im here to answer questions about my background, skills, and experience as a software engineer.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm">
                   <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded-lg">
@@ -51,7 +51,7 @@ export default function Chat() {
                   </div>
                   <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded-lg">
                     <p className="font-medium text-gray-900 dark:text-white">🚀 Projects</p>
-                    <p className="text-gray-600 dark:text-gray-400">Discover what I've built</p>
+                    <p className="text-gray-600 dark:text-gray-400">Discover what I have built</p>
                   </div>
                   <div className="bg-gray-50 dark:bg-gray-700 p-3 rounded-lg">
                     <p className="font-medium text-gray-900 dark:text-white">🎯 Goals</p>
